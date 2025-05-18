@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated Software Engineering undergraduate with a strong interest in **Full-Stack Development** and **Machine Learning**. I'm passionate about continuous learning and eager to explore opportunities that bridge technology and business innovation.
+I am a motivated Software Engineering undergraduate with a strong interest in **Full-Stack Development**, **AI** and **Machine Learning**. I'm passionate about continuous learning and eager to explore opportunities that bridge technology and finance innovation.
 
 ---
 
